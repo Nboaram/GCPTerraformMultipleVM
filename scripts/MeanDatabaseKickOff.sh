@@ -1,0 +1,7 @@
+!#/bin/bash
+cd
+echo ////////////////////////////////////////////////////////////////
+echo            Git Cloning MeanSetup
+echo ////////////////////////////////////////////////////////////////
+sudo git clone https://github.com/Nboaram/MeanSetupMultipleVM.git
+~/MeanSetupMultipleVM/MeanDatabaseSetup.sh
